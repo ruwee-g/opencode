@@ -1,0 +1,13 @@
+<svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(-160 -160)">
+<path d="M167 171C167 169.114 167 168.172 167.586 167.586C168.172 167 169.114 167 171 167H173C174.886 167 175.828 167 176.414 167.586C177 168.172 177 169.114 177 171V173C177 174.886 177 175.828 176.414 176.414C175.828 177 174.886 177 173 177H171C169.114 177 168.172 177 167.586 176.414C167 175.828 167 174.886 167 173V171Z" stroke="currentColor"/>
+<path d="M170 167V164" stroke="currentColor" stroke-linecap="round"/>
+<path d="M174 167V164" stroke="currentColor" stroke-linecap="round"/>
+<path d="M177 170L180 170" stroke="currentColor" stroke-linecap="round"/>
+<path d="M177 174L180 174" stroke="currentColor" stroke-linecap="round"/>
+<path d="M170 180V177" stroke="currentColor" stroke-linecap="round"/>
+<path d="M174 180V177" stroke="currentColor" stroke-linecap="round"/>
+<path d="M164 170L167 170" stroke="currentColor" stroke-linecap="round"/>
+<path d="M164 174L167 174" stroke="currentColor" stroke-linecap="round"/>
+</g>
+</svg>
